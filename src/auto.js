@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 module.exports = {
-  plugins: ['@junghyeonsu'],
+  plugins: ['eslint-config-seulgiryuhun'],
   extends: ['plugin:eslint-config-seulgiryuhun/base'],
   overrides: [
     {
